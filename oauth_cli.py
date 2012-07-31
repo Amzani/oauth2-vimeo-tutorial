@@ -35,7 +35,7 @@ def authorize_cli():
 
 	answer = 'n'
 	while answer.lower() == 'n':
-	    accepted = raw_input('Have you authorized me ? (y/n) ')
+	    answer = raw_input('Have you authorized me ? (y/n) ')
 	oauth_verifier = raw_input('Have you the oauth_verifier ?')
 	
 	#you can pick the oauth_verifier from callback url after your authorization
