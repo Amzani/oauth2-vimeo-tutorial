@@ -2,6 +2,7 @@ oauth2-vimeo-tutorial
 =====================
 
 1# . Test oauth2 with vimeo
+2#. Diff
 
 Useful links : 
 ===============
