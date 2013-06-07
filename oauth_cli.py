@@ -3,8 +3,6 @@ import urlparse
 import oauth2 as oauth
 import pprint
 import getopt
-# add json module
-import json
 
 consumer_key = "YOUR_CONSUMER_KEY or Client ID"
 consumer_secret = "YOUR_CONSUMER_SECRET or Client Secret"
